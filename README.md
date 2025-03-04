@@ -18,5 +18,5 @@ A simple Python program in Jupyter Notebook that tells you your zodiac sign base
 - Prints a message with your name and zodiac sign.
 
 # Group Members
-Richard Xu(github.com/richardjorne)
+Richard Xu(github.com/richardjorne) \\
 Oscar Luo(github.com/zhanpeng1202)
