@@ -21,4 +21,4 @@ A simple Python program in Jupyter Notebook that tells you your zodiac sign base
 Richard Xu(github.com/richardjorne) 
 
 
-Oscar Luo(github.com/zhanpeng1202)
+Zhanpeng Luo(github.com/zhanpeng1202)
